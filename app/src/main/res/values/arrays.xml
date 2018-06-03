@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_order_by_labels">
+        <item>@string/settings_order_by_oldest_label</item>
+        <item>@string/settings_order_by_newest_label</item>
+    </string-array>
+
+    <string-array name="settings_order_by_values">
+        <item>@string/settings_order_by_oldest_value</item>
+        <item>@string/settings_order_by_newest_value</item>
+    </string-array>
+
+    <string-array name="settings_topic_by_labels">
+        <item>@string/settings_topic_science_label</item>
+        <item>@string/settings_topic_sport_label</item>
+        <item>@string/settings_topic_politics_label</item>
+        <item>@string/settings_topic_art_label</item>
+    </string-array>
+
+    <string-array name="settings_topic_by_values">
+        <item>@string/settings_topic_science_value</item>
+        <item>@string/settings_topic_sport_value</item>
+        <item>@string/settings_topic_politics_value</item>
+        <item>@string/settings_topic_art_value</item>
+    </string-array>
+
+</resources>
